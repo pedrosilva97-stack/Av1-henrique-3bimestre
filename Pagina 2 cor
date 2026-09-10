@@ -1,1 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
 
+<head>
+    <meta charset="UTF-8">
+    <title>Corinthians - História</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <nav class="navbar navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">Corinthians</a>
+
+            <a class="text-white" href="index.html">Nav 1</a>
+        </div>
+    </nav>
+
+    <div class="container mt-4">
+
+        <h1>História do Corinthians</h1>
+
+        <p>
+            O Corinthians foi fundado em 1º de setembro de 1910,
+            na cidade de São Paulo.
+        </p>
+
+        <p>
+            Suas cores tradicionais são preto e branco.
+        </p>
+
+        <img src="https://picsum.photos/500/300" width="500">
+
+        <br><br>
+
+        <a href="index.html" class="btn btn-dark">
+            Voltar
+        </a>
+
+    </div>
+
+</body>
+
+</html>
