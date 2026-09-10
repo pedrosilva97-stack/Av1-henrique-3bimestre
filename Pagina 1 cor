@@ -1,1 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
 
+<head>
+    <meta charset="UTF-8">
+    <title>Corinthians</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <nav class="navbar navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">Corinthians</a>
+
+            <a class="text-white" href="pagina2.html">Nav 2</a>
+        </div>
+    </nav>
+
+    <div class="container mt-4">
+
+        <h1>Sport Club Corinthians Paulista</h1>
+
+        <p>
+            O Corinthians é um dos clubes mais conhecidos do Brasil.
+        </p>
+
+        <img src="https://picsum.photos/500/300" width="500">
+
+        <h2 class="mt-4">Sobre o Corinthians</h2>
+
+        <p>
+            O clube foi fundado em 1910 e sua torcida é conhecida
+            como Fiel Torcida.
+        </p>
+
+        <a href="pagina2.html" class="btn btn-dark">
+            Ver mais
+        </a>
+
+    </div>
+
+</body>
+
+</html>
